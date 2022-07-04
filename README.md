@@ -9,6 +9,9 @@ Um determinado sistema operacional define três níveis de permissão para diret
 
 
 Elabore um modelo em Alloy para contemplar a especificação acima. Os seguintes requisitos (mínimos) devem ser contemplados e naturalmente o que está especificado deve estar devidamente representado no modelo de vocês:
+
 Definição de 5 predicados e 3 funções
+
 Definição de 5 operações que simulam o comportamento do sistema 
+
 Definição e verificação de 5 asserts (testes sobre o sistema)
